@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jason Aricheta
+# Hi there 👋 I'm Jason
 
 I'm a full-stack software engineer based in Wellington, New Zealand. Here's a little bit about me: 
 
