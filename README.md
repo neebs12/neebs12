@@ -3,8 +3,8 @@
 I'm a full-stack software engineer based in Wellington, New Zealand. Here's a little bit about me: 
 
 - ✨ Created [Constellation](https://github.com/constellation-load-testing/constellation-local), a framework for scalable and accessible geo-distributed API load testing
-- 👷 Former Civil Engineer focused on earth stabilizing structures and mitigating against pesky earthquakes
-- 🐾 Lives with two farm dogs, Biscuit and Coco. They're very cute, but they bark.. A LOT. 
+- 👷 Former Civil Engineer focused on desining earth stabilizing structures and mitigating against pesky earthquakes ⚡
+- 🐾 I live with two australian farm dogs, Biscuit and Coco. They're very cute, but they bark.. A LOT. 
 
 <!--
 **neebs12/neebs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
