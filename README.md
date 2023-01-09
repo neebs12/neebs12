@@ -3,7 +3,7 @@
 I'm a full-stack software engineer based in Wellington, New Zealand. Here's a little bit about me: 
 
 - ✨ Created [Constellation](https://github.com/constellation-load-testing/constellation-local), a framework for scalable and accessible geo-distributed API load testing
-- 👷 Former Civil Engineer focused on desining earth stabilizing structures and mitigating against pesky earthquakes ⚡
+- 👷 Former Civil Engineer focused on designing earth stabilizing structures and mitigating against pesky earthquakes ⚡
 - 🐾 I live with two australian farm dogs, Biscuit and Coco. They're very cute, and hyperactive 🐕🐕
 
 <!--
